@@ -176,7 +176,7 @@ h1, h2, h3, h4 {
 .book-mockup {
     width: 320px;
     height: 450px;
-    background: url('../assets/covers/capa_2d.png') center/cover no-repeat;
+    background: url('assets/capa_2d.png') center/cover no-repeat;
     border-radius: 5px 15px 15px 5px;
     box-shadow: -20px 20px 60px rgba(0, 0, 0, 0.6),
                 inset -2px 0 5px rgba(255, 255, 255, 0.08),
